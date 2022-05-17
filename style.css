@@ -45,9 +45,9 @@ button.btn
 	background-color:powderblue;
 }
 /* ilgi alanım map div için css */
- #enlem{ background-color:powderblue; }
- #boylam{ background-color:powderblue; }
- #Stil{ background-color:yellow; }
+  #enlem{ background-color:#1cff03; }
+ #boylam{ background-color:rgb(51, 255, 0); }
+ #Stil{ background-color:rgb(255, 255, 233); }
 
 
 
